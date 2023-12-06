@@ -14,4 +14,5 @@ MY TO-DO LIST
 12.Review the results.
 13.Go to results.
 14.Open Submission
-
+15.Declaration
+16. Opening
