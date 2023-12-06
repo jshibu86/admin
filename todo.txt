@@ -14,9 +14,6 @@ MY TO-DO LIST
 12.Review the results.
 13.Go to results.
 14.Open Submission
-<<<<<<< HEAD
 
-=======
->>>>>>> 42dbd6694b5d0af9d65eaffd599b775d0d694144
 15.Declaration
 16. Opening
